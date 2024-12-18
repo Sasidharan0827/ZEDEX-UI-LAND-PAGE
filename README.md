@@ -19,6 +19,8 @@ style.css        - CSS file for styling
 assets/          - Folder containing images, icons, etc.
 README.md        - Project documentation
 ```
+## Project Link
+You can view the project live here: [Zedex Landing Page](https://sasidharan0827.github.io/Zedex-UI-Land-Page/)
 
 ## Setup Instructions
 1. Clone the repository:
@@ -46,6 +48,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any inquiries or feedback, please contact:
-- **Name**: Fali Sam Nariman
+- **Name**: Sasidharan
 - **Email**: [Your Email Address]
 - **Phone**: +91 9994101850
