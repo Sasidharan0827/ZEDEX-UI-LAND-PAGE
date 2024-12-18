@@ -35,10 +35,7 @@ You can view the project live here: [Zedex Landing Page](https://sasidharan0827.
    
    Open the file by double-clicking on it or dragging it into your browser.
 
-## Screenshots
-Add screenshots here to showcase the landing page:
 
-![Zedex Landing Page Preview](assets/screenshot.png)
 
 ## Contributions
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
