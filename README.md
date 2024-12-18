@@ -46,5 +46,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any inquiries or feedback, please contact:
 - **Name**: Sasidharan
-- **Email**: [Your Email Address]
+- **Email**: sasidharan0827@gmail.com
 - **Phone**: +91 9994101850
